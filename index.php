@@ -1,6 +1,6 @@
 <?php
-//var_dump(password_hash("123456"));
-//die;
+// var_dump(password_hash("123456"));
+// die;
 //admin pass = 123456
 require __DIR__ . '/vendor/System/Application.php';
 require __DIR__ . '/vendor/System/File.php';
